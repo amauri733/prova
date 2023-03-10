@@ -1,0 +1,21 @@
+.container{
+    background-image: linear-gradient(45deg,black,rgb(207, 109, 220));
+    width: 1980px;
+    align-content: center;
+    text-align: center;
+ }
+ .nav-link{
+    padding: 0.8rem;
+    text-decoration: none;
+    color: yellow;
+ }
+ article{
+    padding: 1.8rem;
+    color: rgb(205, 199, 203);
+    text-align-last: left;
+ }
+ footer p{
+    text-align: center;
+    color: #fff ;
+    
+ }
